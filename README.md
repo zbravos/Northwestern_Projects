@@ -1,4 +1,4 @@
-## Automated ELK Stack Deployment
+## Project 1: Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
 
@@ -58,7 +58,7 @@ A summary of the access policies in place can be found in the table below.
 
 ### Elk Configuration
 
-Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because it’s considerably faster and can be used to configure multiple machines at once.
+Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because itâ€™s considerably faster and can be used to configure multiple machines at once.
 
 The playbook implements the following tasks:
 - Use more memory
@@ -89,7 +89,7 @@ In order to use the playbook, you will need to have an Ansible control node alre
 
 SSH into the control node and follow the steps below:
 - Copy the Ansible Config file to a running container.
-- Update the config file to include your VM’s IP
+- Update the config file to include your VMâ€™s IP
 - Run the playbook, and navigate to your VM to check that the installation worked as expected.
 
 
